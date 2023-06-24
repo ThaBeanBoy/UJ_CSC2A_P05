@@ -1,0 +1,20 @@
+>< JavaFX
+    >< Download JavaFX
+    >< Make bat file work (make it utilise javafx now)
+    <> Make javafx work on IntelliJ
+
+>< Basic Display
+    >< Make the ShipPane class that extends StackPane
+    >< Make Root Node
+    >< Make Scene & add the root node to the scene
+    >< Set up the stage (width, height & title)
+    >< Display the stage
+
+<> StackPane
+    <> Menu Bar
+
+<> Display the DataReader in the GUI
+
+<> Make the input field read only
+
+<> Set the javafx & jdk17 to C: drive for the tutors sake

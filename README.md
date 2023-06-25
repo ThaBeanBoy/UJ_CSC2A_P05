@@ -2,6 +2,18 @@
 
 ## Table Of Content
 
+- [Marks](#marks)
+- [Additional Information](#additional-information)
+- [Using JavaFX](#using-javafx)
+    * [Compiling](#compiling)
+    * [Running JavaFX application](#running-javafx-application)
+- [Making the JavaFX Application](#making-the-javafx-application)
+    * [JavaFX Basics](#javafx-basics)
+    * [Ship Pane](#ship-pane)
+        + [Menu Bar](#menu-bar)
+        + [File Picker](#file-picker)
+        + [ReadOnly TextField](#readonly-textfield)
+
 ## Marks
 
 ![Marks](./docs/Marks.png)
